@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    'emp_system'
+    'emp_system.apps.EmpSystemConfig'
 ]
 
 MIDDLEWARE = [
